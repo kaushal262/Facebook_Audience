@@ -1,1 +1,2 @@
 rootProject.name = 'facebook_audience_network'
+include ':facebook_audience_network'
